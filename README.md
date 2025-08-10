@@ -1,18 +1,11 @@
 # CL API Documentation Pre-Release
 
-<div style="text-align: center;">
-
-![Cortical Labs Logo](https://corticallabs.com/images/cortical-logo.svg)
-
-</div>
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); justify-items: center;">
+<p align="center">
+  <img src="https://corticallabs.com/images/cortical-logo.svg" alt="Cortical Labs Logo" width="200">
+</p>
 
 [![Style Badge](https://img.shields.io/badge/Visit_Our_Website-36393e?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAOWSURBVHgB7Vffb9NWFP78K05iJySBsR8SNKsYPG0M0BppoCoDJm1s09YVTaLTJk3a9jegPTCmShMvfZimvUzTngdj/0ClwQNU8NBQeIICpUUFXkpKWyexE8e+nHscLAoCCkXqS450Zd9j+57vfOe7x7bSqC8KrKGpWGPrAugC6AJ4bgBBECCZsmEkkgjDEKu15wLQbrdhZ9ah/EEZIyMjsOws+8NQIJXO8vBbPvsEgdP1BB9fCgDZLjPZAvbs6cfZM2M4fPgnjI+PQ1VVBAQgnU6ht7eIbC7P90sw/574Byax9VIAqKqG8+fPYWxsDEJE3btQWM/+06f+h+t6mJ6+iZmZGb7WcOv4+pvvMDt7C4qiPHFd5WnvAnlB4aEgmbahKhrVXkerQ3PNWYSiyuzXYXj4KLZu24qDgwfRanqsD8vOwfPqVIZgZQDkiUYRpcBUzeDQ1btzuHjxAj7/YhDNZpN1IP2GodHiLtxGDWaSBEkxEmYSHs0FQmbJMAz4vv9UBuISyIXTVLdK5RKO/jKMvr4+2LaFDa9sxP4PPyKK3U7wyEwKpqo6ksk0/vrzbwKRgqZpmL19B0E7RNrK4vjxE7RjLJq3I0CUmNTGw+tAMiCHtFKpT3SIiIai0PHBwLJRWF/gZxxngecUXOi6LnK5PPvL5X5BmYuens08931P/PH7b2L/vn00CynmAsdVH654ImEsr0/HH41HrnSEqGnRM5JmWfcMsSZtx/Z3Oeu3tmzh50PqH29vfwd795bpvB2vHjOwtHCXkU5MVMSxY7+K3bvfF9lsNs6YttsyBizL4vtbTVeMjo4K00yIfD4v5ubmxNJilbO8OXMjYmmhKuoUo9VsiKDdEnXnnngQ9zERqpSJrhvQDZNRzs9XMXnlCj759DM4jhPXTwrMbTRImPVIC6ko85ozT6zoMYPP+txSVvJJJpuNmbSpRAmeS2VzsJpD1Ics3qGhQ9hG2/DIkZ/huTXyqwxMyido+6sDIE1QOpOXr2Lnrve43rK+169PomfTJpz87yQODX3L901PT+G1jRsQkrwsO4OpqWt44/VX4+b1WHJYqYkQO3buQrm/nxmRtrRUpzYc4MvBr7CZgJRKJRSLvUx7wjQwUangzWKRgoerZ0CarH8mk8OBAx9jYGAA3//wI9PNfnpPMKjFKuuDmxrhDMJY76sHIE1upzS9BYPAR9PzYjZe1JTufwHW2LoAugDWHMB9X7zcMLpDOMUAAAAASUVORK5CYII=)](https://corticallabs.com)
-
 ![Discord](https://img.shields.io/badge/Join%20Our%20Discord-36393e?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.gg%2FXHnmQtrzDn)
-
-</div>
 
 ## Overview
 
